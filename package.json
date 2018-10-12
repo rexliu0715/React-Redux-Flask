@@ -1,0 +1,26 @@
+{
+  "name": "flask",
+  "version": "1.0.0",
+  "description": "Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexliu0715/React-Redux-Flask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rexliu0715/React-Redux-Flask/issues"
+  },
+  "homepage": "https://github.com/rexliu0715/React-Redux-Flask#readme",
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  }
+}
